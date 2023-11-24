@@ -1,0 +1,15 @@
+Naruto,65,Comedy,Friends,Rajini
+Sasuke,11,Action,Friends,JackieChan
+Sakura,20,Romance,Lover,Ajith	
+Boruto,5,Cartoon,Family,Rajini
+Kisame,55,Action,Friends,Ajith
+Kakashi,45,Action,Family,Rajini
+Tanjiro,17,Cartoon,Lover,Rajini
+Kira,25,Comedy,Family,JackieChan
+Ryuk,100,Romance,Lover,Ajith
+L,28,Action,Friends,Ajith
+Shinigami,200,Comedy,Friends,JackieChan
+Kibutsuji,36,Cartoon,Family,Kamal
+Hattori,12,Action,Lover,JackieChan
+kenichi,14,Romance,Lover,Kamal
+Shishimaru,30,Comedy,Family,Rajini
